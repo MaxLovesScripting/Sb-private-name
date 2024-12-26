@@ -1,0 +1,1 @@
+while wait() do game.Players.LocalPlayer.Character.Head.Nametag.TextLabel.Text = "User protected" end
